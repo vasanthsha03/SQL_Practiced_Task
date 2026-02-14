@@ -21,7 +21,6 @@ The tasks include real-world business scenarios, interview-based questions, and 
 - Subqueries
 - Aggregate Functions
 - Constraints (NOT NULL, PRIMARY KEY)
-- Case Statements
 
 ---
 
